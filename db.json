@@ -1,0 +1,12 @@
+{
+  "match": {
+    "teamA": "Ekta Cricket Club",
+    "teamB": "Opponent XI",
+    "runs": 0,
+    "wickets": 0,
+    "overs": "0.0",
+    "status": "not_started",
+    "lastBalls": [],
+    "players": []
+  }
+}
